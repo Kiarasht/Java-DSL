@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <root>
+    <file name="Constant_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="Constants.behavior.Constant_BehaviorDescriptor" />
+    </file>
+    <file name="Constants_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="Constants.behavior.Constants_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+

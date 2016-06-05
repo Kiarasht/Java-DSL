@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <root nodeRef="r:45719e6b-a42b-4f61-9eb9-d1eed8d2916d(Constants.sandbox)/1885564623756083177">
+    <file name="Person.java">
+      <node id="1885564623756083177" at="7,0,8,0" concept="0" trace="first" />
+      <node id="1885564623756083177" at="8,0,9,0" concept="0" trace="last" />
+      <node id="1885564623756083177" at="9,0,10,0" concept="0" trace="middle" />
+      <unit id="1885564623756083177" at="6,0,11,0" name="Constants.sandbox.Person" />
+    </file>
+  </root>
+</debug-info>
+
